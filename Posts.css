@@ -10,7 +10,7 @@
   color: #222;
 }
 
-/* Search Input */
+
 
 .posts-search {
   width: 100%;
@@ -26,7 +26,7 @@
   border-color: #444;
 }
 
-/* Posts Grid */
+
 
 .posts-grid {
   display: grid;
@@ -34,7 +34,7 @@
   gap: 20px;
 }
 
-/* Post Card */
+
 
 .post-card {
   background: white;
@@ -49,7 +49,7 @@
   transform: translateY(-100px);
 }
 
-/* Post Title */
+
 
 .post-card h3 {
   font-size: 20px;
@@ -57,7 +57,7 @@
   color: #111;
 }
 
-/* Post Body */
+
 
 .post-card p {
   color: #555;
@@ -65,7 +65,7 @@
   margin-bottom: 15px;
 }
 
-/* Read More Button */
+
 
 .post-link {
   display: inline-block;
@@ -82,7 +82,7 @@
   background: #444;
 }
 
-/* Responsive */
+
 
 @media (max-width: 768px) {
   .posts-title {
